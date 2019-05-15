@@ -1,9 +1,18 @@
-
 h1 {
-  color: #00FF00;
-  font-family: Sans-serif;
+color: #1F2F37;
+font-family: Sans-serif;
+
 }
 
+
+
 body {
-  background-color: #00FF00;
+ 
+ background-color: #8EDAFF;
+
+}
+
+.pic1 {
+ height: 30px;
+width: auto;
 }
