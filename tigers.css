@@ -12,7 +12,15 @@ body {
 	 width: auto;
 }
 
-.zabu, .cross-eyes, .hoover {
-	height: 550px:
+.cross-eyes, .kenny {
+	height: 450px:
 	width: auto;
 }
+
+.zabu {
+	height: 550px;
+	width: auto;
+}
+ .hoover {
+	height: auto;
+	width: 734px;
